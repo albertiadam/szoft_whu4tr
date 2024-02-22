@@ -31,6 +31,7 @@ namespace pascal
                         button.Top = sor * m;
                         button.Left = Width/2+oszlop * m-sor*m/2-m/2;
                         button.Text = kombinacio(sor, oszlop).ToString();
+                        ///
                     }
 
 
