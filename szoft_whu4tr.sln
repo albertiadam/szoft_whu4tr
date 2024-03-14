@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fibonacci", "fibonacci\fibo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pascal", "pascal\pascal.csproj", "{CBA738CA-FCB9-440A-9E63-E6DBF3D29B9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillogoGomb", "VillogoGomb\VillogoGomb.csproj", "{BCB21759-76CC-4423-B292-5A3035777A30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VillogoGomb", "VillogoGomb\VillogoGomb.csproj", "{BCB21759-76CC-4423-B292-5A3035777A30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veletlen", "Veletlen\Veletlen.csproj", "{DE54EDCF-8CA2-4007-B58B-3D209077C359}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veletlen", "Veletlen\Veletlen.csproj", "{DE54EDCF-8CA2-4007-B58B-3D209077C359}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haromszog", "Haromszog\Haromszog.csproj", "{66A0F9F9-5FE3-4F1C-B363-66479A1A8BA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Haromszog", "Haromszog\Haromszog.csproj", "{66A0F9F9-5FE3-4F1C-B363-66479A1A8BA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karacsonyfa", "Karacsonyfa\Karacsonyfa.csproj", "{58BCAD3A-DD11-412C-B0B4-0C7B7DEFBE68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Karacsonyfa", "Karacsonyfa\Karacsonyfa.csproj", "{58BCAD3A-DD11-412C-B0B4-0C7B7DEFBE68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kviz", "kviz\kviz.csproj", "{680F82D5-0603-459C-8E6D-7CD96DD0BB94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{58BCAD3A-DD11-412C-B0B4-0C7B7DEFBE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58BCAD3A-DD11-412C-B0B4-0C7B7DEFBE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58BCAD3A-DD11-412C-B0B4-0C7B7DEFBE68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680F82D5-0603-459C-8E6D-7CD96DD0BB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680F82D5-0603-459C-8E6D-7CD96DD0BB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680F82D5-0603-459C-8E6D-7CD96DD0BB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680F82D5-0603-459C-8E6D-7CD96DD0BB94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
